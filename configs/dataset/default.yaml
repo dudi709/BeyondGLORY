@@ -1,0 +1,6 @@
+#train_dir: ${data.dataset_dir}/train
+#val_dir: ${data.dataset_dir}/val
+#test_dir: ${data.dataset_dir}/test
+train_dir: /sise/home/bitondud/Projects/GLORY/data/MINDsmall/train
+val_dir: /sise/home/bitondud/Projects/GLORY/data/MINDsmall/val
+test_dir: /sise/home/bitondud/Projects/GLORY/data/MINDsmall/test

@@ -1,0 +1,14 @@
+# path to root directory
+# this requires PROJECT_ROOT environment variable to exist
+root_dir: ${oc.env:PROJECT_ROOT}
+
+#data_dir: ${path.root_dir}/data
+data_dir: /sise/home/bitondud/Projects/GLORY/data
+
+log_dir: /sise/home/bitondud/Projects/GLORY/logs
+
+ckp_dir: /sise/home/bitondud/Projects/GLORY/checkpoint
+
+pred_dir: /sise/home/bitondud/Projects/GLORY/pred
+
+glove_path: /sise/home/bitondud/Projects/GLORY/data/glove/glove.840B.300d.txt
