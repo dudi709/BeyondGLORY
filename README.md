@@ -1,5 +1,5 @@
 # ✨BeyondGLORY: Global Graph-Enhanced Personalized News Recommendations
-This repository enhances the GLORY method introduced in [_Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations_](https://arxiv.org/pdf/2307.06576.pdf) (RecSys 2023) by upgrading its loss function and prediction component. Our modifications aim to optimize performance, achieving improvements in certain cases and closely matching the original results in others.
+This repository enhances the GLORY method introduced in [_Going Beyond Local: Global Graph-Enhanced Personalized News Recommendations_](https://arxiv.org/pdf/2307.06576.pdf) (RecSys 2023) by upgrading its loss function and prediction component. Our modifications aim to optimize performance, achieving improvements in certain cases and closely matching the original results in others. You can find our paper for the enhancements in the [following link](https://github.com/dudi709/BeyondGLORY/blob/main/BeyondGLORY%20Global%20Graph-Enhanced%20Personalized%20News%20Recommendations.pdf).
 
 <p align="center">
   <img src="glory.jpg" alt="Glory Model Illustration" width="600" />
